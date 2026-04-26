@@ -58,5 +58,6 @@ Recurring research should be organized by region, not by run date:
 - `research/china/notes.md`
 - `research/japan/notes.md`
 - `research/summary.md`
+- `research/benchmark/companies.md`
 
-Each run should read the existing regional notes first, identify what is genuinely new or materially changed, and append rows to the existing `最新動向`, `規制動向`, and `技術動向` tables. Do not create run-specific update headings. Put the research date in the table row, avoid duplicating unchanged baseline content, and add every cited source to the Source Index above.
+Each run should read the existing regional notes and the company benchmark first, identify what is genuinely new or materially changed, and append rows to the existing `最新動向`, `規制動向`, and `技術動向` tables. Do not create run-specific update headings. Put the research date in the table row, avoid duplicating unchanged baseline content, update `research/benchmark/companies.md` when company or aircraft comparisons change, and add every cited source to the Source Index above.

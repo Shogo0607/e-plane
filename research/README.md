@@ -7,6 +7,7 @@ Research is organized by region so each automation run can build on the existing
 - `research/china/notes.md`
 - `research/japan/notes.md`
 - `research/summary.md`
+- `research/benchmark/companies.md`
 
 Each run should:
 
@@ -15,5 +16,6 @@ Each run should:
 3. Compare new sources against the existing notes.
 4. Append only new facts, changed regulatory positions, certification milestones, technical progress, or corrected/retired assumptions as rows in the existing `最新動向`, `規制動向`, and `技術動向` tables.
 5. Put the research date in the `調査日` column instead of creating a run-specific heading.
-6. Skip restating unchanged baseline material.
-7. Put every source link in `/Volumes/ex/study/e-plane/MOC.md`.
+6. Update `research/benchmark/companies.md` when a company or aircraft benchmark changes materially.
+7. Skip restating unchanged baseline material.
+8. Put every source link in `/Volumes/ex/study/e-plane/MOC.md`.
