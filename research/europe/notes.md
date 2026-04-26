@@ -1,0 +1,66 @@
+# Europe Electric Aircraft Update
+
+確認日: 2026-04-26
+
+## 作業方針
+
+EASA と UK/欧州メーカーの一次情報を優先し、IAM 運航規則、SC-VTOL/SC E-19、欧州 eVTOL 試験の進捗を確認した。
+
+## 最新動向
+
+| 公表日/確認日 | 地域 | 論点 | 重要度 | 根拠URL | 残る不確実性 |
+| --- | --- | --- | --- | --- | --- |
+| 2025-10-09 | 欧州/EU | EASA は IAM Hub 第5リリースを公開。Drone Rule Navigator、SORA 2.5、都市向けガイドを追加し、ドローンと電動航空機の実装支援機能を拡張。 | 中 | https://www.easa.europa.eu/en/newsroom-and-events/press-releases/easa-presses-accelerator-support-drone-operations-eu | Hub は制度実装支援であり、個別 eVTOL の型式証明進捗を直接示すものではない。 |
+| 2025-09-09 | 欧州/英国 | Vertical Aerospace は VX4 の piloted wingborne flight testing Phase 3 完了を発表。CAA と EASA が並行して検証・認証に関与し、2028 年型式証明目標を示す。 | 中 | https://vertical-aerospace.com/wp-content/uploads/2025/09/Vertical-Aerospace-Prepares-for-Final-Transition-Testing-After-Successful-Wingborne-Flights.pdf | transition 完了、認証スケジュール、資金調達・量産体制の実現性は未確定。 |
+| 2025-09-17 | 欧州/英国 | Vertical Aerospace は VX4 の transition testing を 2025 年末までに完了、2026 年に hybrid-electric flight testing 開始予定と発表。 | 中 | https://vertical-aerospace.com/wp-content/uploads/2025/09/Vertical-Aerospace-Announces-Manufacturing-Facilities-and-Updates-on-Path-to-Certification-During-Capital-Markets-Day-1-1.pdf | 2026 年 4 月時点で hybrid-electric flight testing の完了または開始を公式確認できていない。 |
+
+## 規制動向
+
+| 公表日/確認日 | 地域 | 論点 | 重要度 | 根拠URL | 残る不確実性 |
+| --- | --- | --- | --- | --- | --- |
+| 2025-07-09 | 欧州/EU | EASA は Regulation (EU) 2024/1111 に対する IAM 向け AMC/GM を ED Decision 2025/010/R、011/R、012/R として公表。Air OPS、FCL、SERA に manned VTOL-capable aircraft の運航・訓練・ATM 対応を追加。 | 高 | https://www.easa.europa.eu/en/newsroom-and-events/news/easa-steps-regulatory-framework-innovative-air-mobility | 規則枠は整備されたが、商用 air taxi は EASA 型式証明取得が別途必要。加盟国実装の差も残る。 |
+| 2025-07-18, 2025-10-10 締切 | 欧州/EU | EASA は SC-VTOL-02 と MOC-1 から MOC-5 SC-VTOL の consultation を実施。VTOL aircraft (>2 lift/thrust units) の certification specifications が更新途上。 | 高 | https://www.easa.europa.eu/en/certification-specifications/vtol-aircraft-2-liftthrust-units | consultation closed 後の最終版内容、既存申請案件への適用時期を確認する必要。 |
+| 2025-03-12 から 2025-04-30 | 欧州/EU | EASA は SC E-19 electric/hybrid propulsion systems に対し、Calibration Assurance、Safety Assessment、Endurance and Durability、Overspeed and Containment などの MoC consultation を実施。 | 高 | https://www.easa.europa.eu/en/certification-specifications/vtol-aircraft-2-liftthrust-units | 最終 MoC が各機体の電動推進、バッテリー、モーター、制御系にどう反映されるかは案件別。 |
+
+## 技術動向
+
+| 公表日/確認日 | 地域 | 論点 | 重要度 | 根拠URL | 残る不確実性 |
+| --- | --- | --- | --- | --- | --- |
+| 2025-09-09 | 欧州/英国 | VX4 は wingborne mode で 250 miles/400 km の piloted flight tests、最高 120 knots、2,000 ft、22 billion data points を収集と発表。 | 中 | https://vertical-aerospace.com/wp-content/uploads/2025/09/Vertical-Aerospace-Prepares-for-Final-Transition-Testing-After-Successful-Wingborne-Flights.pdf | これらは prototype 試験であり、量産コンフィギュレーション、バッテリー劣化、騒音、整備性の証明完了ではない。 |
+| 2025-09-17 | 欧州/英国 | Vertical は all-electric VX4 に加え、長距離・ミッション柔軟性を狙う hybrid-electric variant を開発中と説明。 | 中 | https://vertical-aerospace.com/wp-content/uploads/2025/09/Vertical-Aerospace-Announces-Manufacturing-Facilities-and-Updates-on-Path-to-Certification-During-Capital-Markets-Day-1-1.pdf | hybrid-electric variant のエンジン、発電機、燃料、安全基準、認証経路は未確定。 |
+| 確認日 2026-04-26 | 欧州/EU | EASA IAM Hub は eVTOL を含む設計・規則情報の単一入口を志向。都市、当局、メーカー、運航者の情報共有基盤化が進む。 | 中 | https://www.easa.europa.eu/en/domains/drones-air-mobility/drones-air-mobility-landscape/innovative-air-mobility-hub | partner zone は対象者限定。公開情報だけでは個別メーカーの詳細データは不足。 |
+
+## 次回追跡
+
+- SC-VTOL-02/MOC 最終版の公表有無。
+- SC E-19 MoC の最終採択とメーカー設計への影響。
+- Vertical VX4 の transition flight と hybrid-electric flight testing の実施確認。
+- Volocopter、Lilium など欧州勢の事業継続・資産移転・認証引継ぎ状況。
+
+## 追加調査 2026-04-26
+
+### 作業方針
+
+EASA の 2026 年決定を優先し、型式証明そのものだけでなく、電動・ハイブリッド推進機の整備士訓練、継続耐空性、開発飛行条件に関する制度更新を追加した。
+
+### 最新動向
+
+| 公表日/確認日 | 地域 | 論点 | 重要度 | 根拠URL | 残る不確実性 |
+| --- | --- | --- | --- | --- | --- |
+| 2026-02-02 | 欧州/EU | EASA ED Decision 2026/001/R は、CS-MCSD Issue 2 を発行し、new air mobility aircraft の OSD 上で maintenance certifying staff の type-rating training requirements を特定するための仕様を整備。 | 高 | https://www.easa.europa.eu/en/document-library/agency-decisions/ed-decision-2026001r | 個別 eVTOL/電動 CTOL の OSD 承認、整備士訓練課程の実運用開始時期は案件別。 |
+| 2026-02-03 | 欧州/EU | EASA ED Decision 2026/002/R は、Commission Regulation (EU) No 1321/2014 の AMC/GM を更新し、electric/hybrid-propulsion aircraft と non-conventional aircraft の継続耐空性に対応。 | 高 | https://www.easa.europa.eu/en/document-library/agency-decisions/ed-decision-2026002r | 各国当局、Part-145/Part-66/Part-CAMO 組織の実装速度に差が出る可能性。 |
+| 2025-11-10, 確認日 2026-04-26 | 欧州/英国 | Vertical Aerospace は UK CAA Permit to Fly 承認後、VX4 の Phase 4 transition flight testing を開始したと発表。CAA と EASA の concurrent validation/certification に言及。 | 中 | https://vertical-aerospace.com/wp-content/uploads/2025/11/Vertical-Aerospace-Begins-Piloted-Transition-Testing-Following-Permit-to-Fly-Approval.pdf | 完全 transition の実績、量産仕様への反映、2026 年 hybrid-electric flight testing の開始確認は未取得。 |
+
+### 規制動向
+
+| 公表日/確認日 | 地域 | 論点 | 重要度 | 根拠URL | 残る不確実性 |
+| --- | --- | --- | --- | --- | --- |
+| 2026-03-31, 2026-06-03 締切 | 欧州/EU | EASA は CM-21.A-P-002「Approval of Flight Conditions for development flights of a new small aircraft type」の consultation を開始。VTOL/new aircraft の開発飛行許可に関係し得る。 | 中 | https://www.easa.europa.eu/en/certification-specifications/vtol-aircraft-2-liftthrust-units | consultation 後の最終 CM と既存 eVTOL prototype flight permit への反映範囲は未確定。 |
+| 確認日 2026-04-26 | 欧州/EU | SC E-19 の MoC は Endurance and Durability Demonstration と Calibration Assurance が final publication 済み、Safety Assessment と Overspeed and Containment は consultation closed だが final publication 待ち。 | 高 | https://www.easa.europa.eu/document-library/product-certification-consultations/proposed-special-condition-electric-hybrid | electric/hybrid propulsion の安全評価、過回転・封じ込め基準が最終化される時期が主要不確実性。 |
+
+### 技術動向
+
+| 公表日/確認日 | 地域 | 論点 | 重要度 | 根拠URL | 残る不確実性 |
+| --- | --- | --- | --- | --- | --- |
+| 2026-02-02 | 欧州/EU | 新しい CS-MCSD は、電動・ハイブリッド推進や non-conventional aircraft で、機体整備士の型式訓練を OSD に組み込む実務基盤になる。 | 高 | https://www.easa.europa.eu/en/document-library/agency-decisions/ed-decision-2026001r | バッテリー、HV 系、分散推進、ソフトウェア更新を整備士訓練へどう落とすかは個別機体で確認が必要。 |
+| 2025-11-10, 確認日 2026-04-26 | 欧州/英国 | VX4 は prototype flight test programme の最終段階である transition testing に入り、wingborne から full transition への技術リスク低減を狙う。 | 中 | https://vertical-aerospace.com/wp-content/uploads/2025/11/Vertical-Aerospace-Begins-Piloted-Transition-Testing-Following-Permit-to-Fly-Approval.pdf | flight envelope 拡大、騒音、thermal management、battery cycle life、hybrid variant の推進系構成は継続確認。 |
