@@ -59,4 +59,4 @@ Recurring research should be organized by region, not by run date:
 - `research/japan/notes.md`
 - `research/summary.md`
 
-Each run should read the existing regional notes first, identify what is genuinely new or materially changed, and append only the additional findings under dated update headings. Do not duplicate existing baseline content. Every cited source must also be added to the Source Index above.
+Each run should read the existing regional notes first, identify what is genuinely new or materially changed, and append rows to the existing `最新動向`, `規制動向`, and `技術動向` tables. Do not create run-specific update headings. Put the research date in the table row, avoid duplicating unchanged baseline content, and add every cited source to the Source Index above.
