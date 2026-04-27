@@ -1,6 +1,6 @@
 # Europe Electric Aircraft Update
 
-最終確認日: 2026-04-26
+最終確認日: 2026-04-27
 
 ## 作業方針
 
@@ -20,6 +20,8 @@
 | 2026-04-26 | 2026-04-16 | 欧州/英国 | Vertical Aerospace は 2026-04-14 に Valo/VX4 の two-way piloted transition flight を完了したと発表。垂直離陸から wingborne cruise、垂直着陸までを連続飛行で実施。 | 高 | https://finance.yahoo.com/sectors/technology/articles/vertical-aerospace-achieves-world-first-104100297.html | Business Wire 配信の転載で確認。CAA/EASA 側の個別認証進捗、量産仕様機での再現性、2028 年 TC 目標の達成可能性は未確定。 |
 | 2026-04-26 | 2026-04-22 | 欧州/ドイツ | Volocopter は Diamond Aircraft Group 傘下で新機種 VoloXPro を発表。2席、18 rotors、cruise 70 km/h、range 40 km、MTOM 600 kg、payload 154 kg とし、ドイツ ultralight certification を 2026 年末に計画。 | 中 | https://www.volocopter.com/en/newsroom/volocopter-launches-new-product-voloxpro | VoloCity の EASA TC 進捗とは別の軽量機寄り市場転換。air taxi 用途での認証・運航条件、量産価格、事業継続性は未確定。 |
 | 2026-04-26 | 2026-01-30 | 欧州/ドイツ | Volocopter は Diamond 傘下で VoloCity と VoloXPro の研究開発・生産・供給網を再編し、VoloXPro の 2026 年末 certification、VoloCity の 2027 年 EASA certification 見込みは維持すると説明。 | 中 | https://www.volocopter.com/en/newsroom/VC-has-completed-optimizing-its-supply-chain | 供給網再編は完了したが、長納期部品と短時間勤務対応があり、VoloCity の EASA TC 達成可能性は継続確認が必要。 |
+| 2026-04-26 | 2026-04-01 | 欧州/英国 | Loganair、Royal Mail、BETA Technologies は Scotland の地域空港網で ALIA CTOL の英国初 electric flight demonstration program を完了。10日間で 23 flights、うち Scottish legs 18本、1,006 nautical miles、11.2 flight hours を飛行し、Loganair と BETA は electric aviation operations 推進の MOU を締結した。 | 中 | https://www.loganair.co.uk/news/loganair-royal-mail-and-beta-technologies-complete-uks-first-electric-flight-demonstrations-across-scotland/ | デモ飛行であり、EASA/UK CAA 型式証明や定期商用郵便輸送の承認ではない。実運航時の天候、payload、充電時間、dispatch reliability、経済性は継続確認が必要。 |
+| 2026-04-27 | 2025-10-15, 確認日 2026-04-27 | 欧州/ドイツ/米国 | Lilium GmbH/Lilium Aerospace GmbH の insolvency proceedings で、Lilium の特許・登録知財の中核ポートフォリオが Archer Aviation へ売却された。Archer 側は約 300 件の AAM patent assets を €18 million で取得し、ducted fans、高電圧系、battery management、flight controls、electric engines、propellers を含むと発表。 | 中 | https://news.archer.com/archer-wins-competitive-bid-process-to-acquire-liliums-patent-portfolio | 知財移転であり、Lilium Jet の型式証明や事業再開ではない。残余資産、設計データ・人材・サプライヤー契約の承継範囲、Archer が実機設計へどう使うかは未確定。 |
 
 ## 規制動向
 
@@ -31,6 +33,7 @@
 | 2026-04-26 | 2026-03-31, 2026-06-03 締切 | 欧州/EU | EASA は CM-21.A-P-002「Approval of Flight Conditions for development flights of a new small aircraft type」の consultation を開始。VTOL/new aircraft の開発飛行許可に関係し得る。 | 中 | https://www.easa.europa.eu/en/certification-specifications/vtol-aircraft-2-liftthrust-units | consultation 後の最終 CM と既存 eVTOL prototype flight permit への反映範囲は未確定。 |
 | 2026-04-26 | 確認日 2026-04-26 | 欧州/EU | SC E-19 の MoC は Endurance and Durability Demonstration と Calibration Assurance が final publication 済み、Safety Assessment と Overspeed and Containment は consultation closed だが final publication 待ち。 | 高 | https://www.easa.europa.eu/document-library/product-certification-consultations/proposed-special-condition-electric-hybrid | electric/hybrid propulsion の安全評価、過回転・封じ込め基準が最終化される時期が主要不確実性。 |
 | 2026-04-26 | 確認日 2026-04-26 | 欧州/EU | EASA の SC-VTOL 解説資料は、Category Enhanced では 1 fatality 以上や continued safe flight and landing 喪失を catastrophic と扱い、10^-9 per flight hour の安全目標を掲げると整理。都市上空の第三者リスクを明示的に組み込む設計思想が確認できる。 | 高 | https://www.easa.europa.eu/en/downloads/140492/en | 解説資料であり、個別機体の certification basis や MoC 承認そのものではない。SC-VTOL-02/MOC consultation の最終版との差分確認が必要。 |
+| 2026-04-27 | 2026-04-15, 確認日 2026-04-27 | 欧州/EU | EASA ED Decision 2026/003/R は CS-23 Amendment 6 と AMC & GM to CS-23 Issue 5 を発行し、ASTM F44 の更新済み consensus standards を AMC1 to CS-23 に取り込んだ。normal-category aeroplanes の performance-based regulation と技術革新への追随を目的としており、電動 CTOL/ハイブリッド小型機の欧州認証で参照される基盤が更新された。 | 中 | https://www.easa.europa.eu/en/document-library/agency-decisions/ed-decision-2026003r | CS-23 更新は VTOL 専用の SC-VTOL ではない。Heart、Aura Aero、BETA の欧州実証・将来申請などにどの ASTM standard が適用されるかは個別 certification basis の確認が必要。 |
 
 ## 技術動向
 
@@ -46,6 +49,8 @@
 | 2026-04-26 | 2026-01-30 | 欧州/ドイツ | Volocopter は Bruchsal に sandbox を設け、VoloCity/VoloXPro の realistic flight operations を模擬する計画。軽量機市場と都市旅客 eVTOL の両方で運用検証環境を作る狙い。 | 中 | https://www.volocopter.com/en/newsroom/VC-has-completed-optimizing-its-supply-chain | sandbox の開始日、運航シナリオ、EASA certification evidence への利用可否は未確認。 |
 | 2026-04-26 | 確認日 2026-04-26 | 欧州/EU | SC E-19 Calibration Assurance MoC は、electric/hybrid propulsion system の endurance/durability certification tests 前後に power characteristics と operating conditions を確立する枠組みを示し、hybrid architecture では既認証 turbine/piston/APU の credit 活用にも触れる。 | 中 | https://www.easa.europa.eu/en/downloads/141726/en | propulsion batteries や distribution system は当該 MoC の scope 外と明記されており、battery safety、thermal runaway、HV distribution の MoC は別途確認が必要。 |
 | 2026-04-26 | 確認日 2026-04-26 | 欧州/EU | EASA の SC E-19 EHPS.420 Endurance Substantiation MoC は、electric/hybrid propulsion system の endurance substantiation で CS-E、CS-APU、EUROCAE ED-321 など既存標準・AMC の活用方針を示す。turbine/piston を含む hybrid-electric architecture も対象に入る。 | 高 | https://www.easa.europa.eu/en/downloads/140799/en | propulsion battery、electrical power distribution、energy storage device は scope 外とされており、battery/HV 系の安全・耐久 MoC は別資料で追跡が必要。 |
+| 2026-04-26 | 2026-04-01 | 欧州/英国 | BETA ALIA CTOL の Scotland 実証では、Royal Mail の representative postal routes を想定し、平均 56-mile missions、99 knots、1.37 kWh per nautical mile の運航データを取得。短距離地域貨物では eCTOL が eVTOL より先に実運用データを蓄積している。 | 中 | https://www.loganair.co.uk/news/loganair-royal-mail-and-beta-technologies-complete-uks-first-electric-flight-demonstrations-across-scotland/ | 代表荷物での実証値であり、冬季・強風・高稼働率・満載時の性能、充電インフラ増設、郵便ネットワークへの本格組込みは未確認。 |
+| 2026-04-27 | 確認日 2026-04-27 | 欧州/英国 | Vertical の Valo 公式仕様ページは、UK CAA/EASA SC-VTOL enhanced category を目標に、150 mph 巡航、100 mile 航続、4 passengers + 1 pilot、8組の tilt-shift propellers、Molicel 円筒セルを使う自社 battery technology、Honeywell flight control system、aerospace cyber security regulations への適合を訴求。 | 中 | https://vertical-aerospace.com/meet-valo/ | 公式仕様は設計目標・商品説明を含む。認証用機体の実測 range/speed/noise、battery cycle life、fast charging 条件、cybersecurity compliance evidence、整備間隔は未確認。 |
 
 ## 次回追跡
 
@@ -53,6 +58,8 @@
 - SC E-19 MoC の最終採択とメーカー設計への影響。
 - Vertical VX4 の transition flight と hybrid-electric flight testing の実施確認。
 - Volocopter、Lilium など欧州勢の事業継続・資産移転・認証引継ぎ状況。
+- Lilium の残余資産売却、Archer への特許移転後の活用範囲、欧州内での設計・人材・認証資産の承継可能性。
 - Vertical Valo の CDR、認証用機体生産開始、hybrid-electric demonstrator の飛行開始。
 - Volocopter VoloXPro が VoloCity 後継の主軸になるのか、EASA TC 路線を維持するのか。
 - Volocopter の Bruchsal sandbox、VoloCity 2027 EASA certification 見込み、Diamond 傘下の供給網再編効果。
+- Vertical Valo の Molicel セル採用、Honeywell flight control、cybersecurity compliance、簡素化 propeller maintenance claims が認証用機体と整備計画にどう反映されるか。

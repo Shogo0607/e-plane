@@ -1,6 +1,6 @@
 # China Electric Aircraft Update
 
-最終確認日: 2026-04-26
+最終確認日: 2026-04-27
 
 ## 作業方針
 
@@ -26,6 +26,7 @@
 | 2026-04-26 | 2025-11-26, 確認日 2026-04-26 | 中国 | EHang は EH216-S OC 取得後の運航準備として、2 operator が累計 1,700 回超の safe operational flights を実施し、EHang Trip ticketing system の internal beta を稼働、A-to-B route trial flights と ground operating crew training program の当局最終承認を準備中と開示。 | 高 | https://ir.ehang.com/static-files/163d480a-a013-4c8b-8760-a61193612e72 | 公開予約・有償一般搭乗の正式開始、ground operating crew license の最終承認、A-to-B 旅客ルートの許可条件は未確認。 |
 | 2026-04-26 | 2025-11-26, 確認日 2026-04-26 | 中国 | EHang は VT35 について、Hefei の product hub に R&D、testing、manufacturing、airworthiness certification、supply chain、sales、operations、人材育成を集約し、Hefei 政府から orders、investments など約 RMB 500 million 相当の支援を受けると開示。Anhui、Zhejiang、Hainan の顧客から RMB 6.5 million/機で VT35 purchase orders を受け、2025 Q3 に納入開始とも説明した。 | 高 | https://ir.ehang.com/node/12311/pdf | 受注の firm/conditional 区分、納入機の耐空証明状態、VT35 TC 発行時期、実運航許可は未確認。 |
 | 2026-04-26 | 2026-04-17, 確認日 2026-04-26 | 中国 | AutoFlight は CarryAll (V2000CG) を使い、Guizhou 省の Anshun-Guiyang 間約 120 km を 37 分で飛ぶ spring tea transport trial を実施したと発表。到着後は高鉄で Shanghai へ輸送し、「eVTOL + high-speed rail」による 24 時間以内の生鮮物流モデルを示した。 | 中 | https://www.global-agriculture.com/global-agriculture/autoflight-completes-first-2-ton-class-evtol-tea-delivery-in-china/ | PRNewswire 系の転載で確認。反復商用契約、運航許可の詳細、山岳気象下の運航制限、荷量・収益性は未確認。 |
+| 2026-04-27 | 2026-03-20, 確認日 2026-04-27 | 中国/タイ | EHang はタイ副首相・運輸省・CAAT と会合し、Bangkok Land、Aerial Sea Thailand、China Harbour (Thailand) と UAM solutions の MOU を締結。中国の Guangzhou Future City と Hefei Luogang Park では EH216-S の public ticketing と低空 sightseeing flight services を 2026 年 3 月に始める見込みと説明し、タイ側は EHang experience を規制・標準作りの参照にするとした。 | 中 | https://www.ehang.com/news/1361.html | 2026-04-27 時点で、実際の公開チケット販売開始、一般乗客搭乗数、タイでの type certification/operator license、vertiport・通信・交通管理設備の承認は未確認。 |
 
 ## 規制動向
 
@@ -37,6 +38,7 @@
 | 2026-04-26 | 2026-04-21, 2026-05-01 施行 | 中国 | 実名登録・激活標準は、未登録または登録取消済みの民用無人航空器が飛行できないよう、設計上の activation/deactivation とデータ連携・暗号安全要件を求める。 | 高 | https://www.caac.gov.cn/XXGK/XXGK/ZCFBJD/202604/t20260421_230620.html | 既存在庫・輸入機・自作機への実装監督、低空空域管理システムとの接続は追跡が必要。 |
 | 2026-04-26 | 2026-02-12 | 中国 | CAAC は AC-21-AA-2026-44「限用类无人驾驶航空器系统适航标准」を有効な規範性文件として公表済み。用途・リスクに応じた UAS 耐空標準が細分化している。 | 中 | https://www.caac.gov.cn/PHONE/XXGK_17/XXGK/GFXWJ/202602/t20260226_230117.html | 限用類と正常類 powered-lift UAS の線引き、貨物 eVTOL への適用関係は機体ごとに確認が必要。 |
 | 2026-04-26 | 2026-02-12, 確認日 2026-04-26 | 中国 | 国家発展改革委、金融監督管理総局、CAAC は「推动低空保险高质量发展的实施意见」を公表。2027 年までに無人驾驶航空器责任保险の強制投保制度を初歩的に構築し、2030 年までに低空保険政策枠組みを基本形成する目標を示した。 | 高 | https://www.caac.gov.cn/PHONE/XXGK_17/XXGK/SYZCFBJD/202602/t20260212_230056.html | eVTOL/大型貨物 UAS/有人 pilotless への保険料率、補償範囲、第三者責任、運航許可との連動方法は今後の実施細則待ち。 |
+| 2026-04-27 | 2026-02-12, 確認日 2026-04-27 | 中国 | CAAC は AC-21-AA-2026-45「动力提升航空器适航标准」を発行。有効日 2026-02-12、有人操縦、純電供能、分散式電推、MTOW 5,700 kg 以下、最大乗客 9 席以下、非与圧、最大速度 463 km/h 以下の powered-lift 型式合格審定に使える標準として整理した。 | 高 | https://www.caac.gov.cn/XXGK/XXGK/GFXWJ/202602/P020260226344192407264.pdf | EH216-S のような pilotless 載人機や、10席仕様・ハイブリッド仕様・5,700 kg 超の大型機にはそのまま適用できない可能性。個別申請で標準外の新規設計に special conditions が追加されるか確認が必要。 |
 
 ## 技術動向
 
@@ -54,6 +56,9 @@
 | 2026-04-26 | 2025-11-26, 確認日 2026-04-26 | 中国 | EHang は VT35 が CAAC 型式証明で wind tunnel tests、ground load tests、multi-rotor test flights、single-blade power failure tests、transition flights を実施済みと開示。EH216-S と共有する command-and-control、vertiport、認証経験を利用して長距離 pilotless eVTOL の審査を進める構図。 | 高 | https://ir.ehang.com/static-files/163d480a-a013-4c8b-8760-a61193612e72 | VT35 の正式 TC 発行時期、試験が for-credit か開発試験かの区分、full-load range/payload の認証値、量産品質監督は未確認。 |
 | 2026-04-26 | 2025-11-26, 確認日 2026-04-26 | 中国 | EHang は Yunfu production base 第2期が trial production を開始し、完成後は eVTOL と aircraft parts の年産 1,000 units を目標と開示。Hefei、Weihai、Beijing の生産施設も進行中としており、EH216-S/VT35 の量産網を複数地域へ広げる計画。 | 中 | https://ir.ehang.com/static-files/163d480a-a013-4c8b-8760-a61193612e72 | 年産能力は目標であり、実生産数、品質監査、supplier readiness、商用運航需要との整合は未確認。 |
 | 2026-04-26 | 2026-04-17, 確認日 2026-04-26 | 中国 | CarryAll の spring tea trial は、2トン級 autonomous cargo eVTOL を山岳部の短距離航空支線に使い、高速鉄道幹線へ接続する運用モデル。低空経済の初期用途が海上物流・救助待機から、時間価値の高い農産品物流へ広がる可能性を示す。 | 中 | https://www.global-agriculture.com/global-agriculture/autoflight-completes-first-2-ton-class-evtol-tea-delivery-in-china/ | 1 回の実証であり、荷役設備、温度管理、離着陸地点、充電、保険、天候時の代替輸送、定期便化の条件は未公開。 |
+| 2026-04-27 | 2026-03-20, 確認日 2026-04-27 | 中国/タイ | EHang のタイ MOU は、EH216-S の機体だけでなく、vertiports、supporting takeoff and landing facilities、communication networks、digital traffic management systems、operations and maintenance system を含む包括導入を対象にしている。CAAT との協議では Heyi Aviation の OC 取得経験、安全運航組織、personnel training、manual systems、maintenance、safety management が共有された。 | 中 | https://www.ehang.com/news/1361.html | タイ側で CAAC 認証をどこまで credit するか、現地の操縦・地上要員資格、整備承認、交通管理責任分界、保険・第三者責任の制度化は未確定。 |
+| 2026-04-27 | 2026-02-12, 確認日 2026-04-27 | 中国 | AC-21-AA-2026-45 は飛行、構造、設計・構造、動力装置、システム、飛行機組界面、電動エンジン、プロペラ、継続耐空文書の章で構成され、動力電池・配電系、功率/升力/推力制御、雷撃・静電・HIRF、防火、高エネルギーローター、flight manual/ICA を powered-lift 特有の審査項目として明示。 | 高 | https://www.caac.gov.cn/XXGK/XXGK/GFXWJ/202602/P020260226344192407264.pdf | 標準は性能要求中心で、具体的な符合性方法や試験条件は案件別に詰める必要がある。編制説明では企業意見の多くが符合性方法や特定設計案として不採用になっており、MoC レベルの透明性を追跡要。 |
+| 2026-04-27 | 2025-11-22, 確認日 2026-04-27 | 中国 | AutoFlight は zero-carbon water vertiport と eVTOL を組み合わせた Integrated Sea-Air Low-Altitude Economy Solution を発表済み。水上に展開できる mobile aerial hub/intelligent command center として、energy platform maintenance、emergency rescue、high-frequency commuting、marine-aerial tourism、mobile vertiport clusters を想定し、CarryAll、White Shark、Prosperity と互換と説明。 | 中 | https://www.autoflight.com/en/news/autoflight-unveils-zero-carbon-water-vertiport-debuts-worlds-first-int/ | インフラ発表であり、恒常運用許可、港湾・海事・航空管制との責任分界、係留・荒天時運用、充電電力、消防、保険、商用契約は未確認。 |
 
 ## 次回追跡
 
@@ -62,8 +67,10 @@
 - VT35 の型式証明審査進捗。
 - AutoFlight CarryAll の量産納入、貨物運航許可、低空物流実証。
 - EHang EH216-S の 2026 年 3 月以降の実際の commercial operation 開始確認と運航制限。
+- EHang の Guangzhou/Hefei public ticketing 開始実績、タイ CAAT による type certification/operator license/vertiport 承認の具体化。
 - AutoFlight offshore operation の反復実績、顧客契約、海上向け整備・充電体制。
 - AutoFlight CarryAll の実水域救助待機が、自治体・公安・医療と連携した反復運用や正式契約へ進むか。
+- AutoFlight の zero-carbon water vertiport が、港湾・海上油田・観光水域で実設置、充電、消防、海事/航空管制連携、保険条件まで具体化するか。
 - AutoFlight Matrix の CAAC 申請、純電動型と hybrid-electric variant の認証区分、旅客/貨物顧客。
 - XPENG ARIDGE Land Aircraft Carrier の TC/PC/AC 公式進捗、2026 年量産・納入実績、Dunhuang 低空観光ルートの許可条件。
 - XPENG ARIDGE A868 の flight verification、hybrid-electric core、6席長距離機としての認証区分。

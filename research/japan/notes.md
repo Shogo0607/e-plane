@@ -1,6 +1,6 @@
 # Japan Electric Aircraft Update
 
-最終確認日: 2026-04-26
+最終確認日: 2026-04-27
 
 ## 作業方針
 
@@ -21,6 +21,7 @@
 | 2026-04-26 | 2026-03-06 | 日本 | SkyDrive は MASC と SKYDRIVE SD-05 将来購入の LOI を締結。2機を 2028 年に納入し、同年の瀬戸内地域での遊覧・地域サービス投入を目標に、価格と納入スケジュールを含む基本合意に進んだ。 | 中 | https://skydrive.co.jp/en/archives/17776 | LOI であり firm order ではない。TC、運航許可、離着陸場、地方自治体・観光事業者との実装条件が未確定。 |
 | 2026-04-26 | 2026-03-31 | 日本/大阪 | SkyDrive は大阪府の FY2025 大阪ラウンドテーブルで、Expo 2025/OSAKAKO Vertiport の成果を踏まえ、2028 年商用運航、2030 年固定2地点間の継続商用運航、2035 年大阪湾岸 80 km 圏で約100機運用という関経連ビジョンを紹介。 | 中 | https://skydrive.co.jp/en/archives/17986 | 企業発表ベースであり、大阪府・国・運航者・機体認証・バーティポート整備の実行計画と資金負担は確認が必要。 |
 | 2026-04-26 | 確認日 2026-04-26 | 日本 | MLIT 官民協議会資料で、JR East は駅・駅ビルを拠点にした vertiport 配置、盛岡エリア小岩井の宿泊施設を起点にした地方モデル、広域品川圏の都心モデルを示した。鉄道と SkyDrive SD-05 を組み合わせる実装構想が、観光・宿泊・駅接続の文脈で具体化している。 | 中 | https://www.mlit.go.jp/koku/content/001991344.pdf | 官民協議会資料の構想段階であり、対象 vertiport、運航者、航空法上の許可、消防・旅客導線、事業採算は未確定。 |
+| 2026-04-26 | 2026-01-15 | 日本/国際 | SkyDrive は Dubai の AeroGulf Services と SD-05 20機の購入に関する基本条件で合意。2028 年に 10機、2029 年に 10機を納入し、Palm Jumeirah 周辺の観光・都市移動サービス商用化を目指す枠組みを示した。 | 中 | https://skydrive.co.jp/en/wp-content/uploads/sites/2/2026/01/%E3%80%90SkyDrive%E3%80%91SkyDrive-Reaches-General-Understanding-with-AeroGulf-Services-on-Purchase-of-20-eVTOL-Aircraft-with-Anticipated-Delivery-Beginning-in-2028_15Jan2026.pdf | 基本合意であり firm order/納入確定ではない。JCAB/FAA/UAE 側の認証・運航承認、AeroGulf の eVTOL 運航体制、2028 年サービス開始条件は未確定。 |
 
 ## 規制動向
 
@@ -32,6 +33,7 @@
 | 2026-04-26 | 2026-03-02 | 日本 | MLIT は無人航空機の型式認証等の手続き No.8-002 を 2026-03-02 付で一部改正したと公表。無人航空機の強度・構造・性能、設計・製造過程の安全性/均一性を認証する制度の運用更新。 | 中 | https://www.mlit.go.jp/koku/certification.html | 直接の有人 eVTOL ではないが、自動化・遠隔運航・大型 UAS と空飛ぶクルマ制度の接続を確認する必要。 |
 | 2026-04-26 | 確認日 2026-04-26 | 日本 | 「空飛ぶクルマ」試験飛行ガイドラインは、2025 年の航空法第87条許可や救急用具基準の通達を含む付録を掲げており、実証飛行時の関連手続が更新されている。 | 高 | https://www.mlit.go.jp/koku/koku_tk10_000072.html | ページ更新日が明確でないため、各通達本文の最新版管理が必要。 |
 | 2026-04-26 | 2026-03-27 | 日本 | 改訂ロードマップは、AAMコリドー等の高密度運航に向けた交通管理制度・体制整備、遠隔操縦旅客輸送の制度整備、運航管理システムの官民開発を 2030年代前半の論点として明示。 | 高 | https://www.mlit.go.jp/report/press/kouku10_hh_000304.html | 具体的な航空法・省令・通達改正、UTM/AAM 交通管理システムの責任分界、有人機混在空域の扱いは未確定。 |
+| 2026-04-27 | 2026-04-06, 確認日 2026-04-27 | 日本 | MLIT は「空の移動革命に向けた官民協議会」ページを更新し、2026-03-27 ロードマップ、ConOps 第2版概要・本文、制度整備一覧、既存ヘリポートでの VTOL 機運航資料を同じ入口に整理した。ConOps 第2版は自動化・自律化、AAM フェーズ、低高度空域の交通管理、フェーズ別課題を更新しており、制度整備の参照文書が旧 ConOps から更新された。 | 高 | https://www.mlit.go.jp/koku/koku_tk2_000007.html<br>https://www.mlit.go.jp/koku/content/001994660.pdf | 公式ページ上の資料整理であり、個別機体の TC、運航許可、AAM 交通管理システムの制度化完了を意味しない。ConOps 第2版の本文・Appendix 7 を精読し、ロードマップと個別通達への反映を継続確認する必要。 |
 
 ## 技術動向
 
@@ -45,6 +47,9 @@
 | 2026-04-26 | 2026-03-27 | 日本 | 改訂ロードマップは、自動・自律運航、遠隔操縦、高密度運航管理を段階的に導入する前提で、機体だけでなく通信、運航管理、地上インフラ、制度整備を同時に成熟させる必要を示す。 | 中 | https://www.mlit.go.jp/report/press/kouku10_hh_000304.html | 技術開発主体、実証地域、サイバー/通信冗長性、旅客輸送時の安全評価基準は今後の具体化待ち。 |
 | 2026-04-26 | 2025-09-05, 確認日 2026-04-26 | 日本 | SkyDrive と JR East は「railway × eVTOL」展示と SKYDRIVE 1機の pre-order 合意を発表済み。MLIT 官民協議会資料では、SD-05 の飛行可能範囲イメージを宿泊・観光拠点に重ね、鉄道接続型 AAM の初期ユースケースを補強している。 | 中 | https://skydrive.co.jp/en/wp-content/uploads/sites/2/2025/09/%E3%80%90SkyDrive%E3%80%91SkyDrive-and-JR-East-Hold-eVTOL-Exhibition-at-Takanawa-Gateway-City-Agreement-also-reached-for-Pre-order-of-One-Aircraft_20250905-4.pdf | pre-order であり firm order ではない。機体認証、運航者、離着陸場、JR East の投資・保有・運航関与の範囲は継続確認が必要。 |
 | 2026-04-26 | 2026-04-20, 確認日 2026-04-26 | 日本 | SkyDrive の ADO 認定資料では、認定能力が Aircraft Design and Inspection、証明番号 No.313 と明記され、2026 年 4 月時点で日本国内の認定保有は大手航空機メーカーを含む 6 社のみと説明。政府検査の一部を認定組織が担うことで、型式証明に向けた設計・検査実務を効率化する位置付け。 | 高 | https://skydrive.co.jp/en/wp-content/uploads/sites/2/2026/04/%E3%80%90SkyDrive%E3%80%91SkyDrive-Becomes-Japans-First-eVTOL-Developer-to-Earn-Approved-Design-Organization-ADO-Certification_20260420.pdf | ADO は TC ではない。ASIMS/MLIT 側の一覧照合、認定範囲の運用、個別 Certification Plans と compliance testing の開始時期は未確認。 |
+| 2026-04-27 | 2025-04-18, 確認日 2026-04-27 | 日本 | SkyDrive は SD-05 の Expo 公開飛行に際し、Avidyne の Quantum avionics、Electric Power Systems の battery/BMS、Thales の FlytRise flight control system、Toray Carbon Magic の CFRP 部品、Cyient の maintenance manuals/content management と certification/value engineering support など主要サプライヤーを公表。型式証明に向け、機体だけでなく整備文書・認証支援・航空電子機器・電池系の外部供給網が明確になった。 | 中 | https://skydrive.co.jp/en/archives/15330 | Expo 機体・公開飛行時点のサプライヤー情報であり、型式証明用最終コンフィギュレーション、各部品の認証 credit、量産契約、保守部品供給、バッテリー寿命・交換体系は未確認。 |
+| 2026-04-27 | 2026-04-01, 確認日 2026-04-27 | 日本 | SkyDrive は製造子会社 Sky Works の代表取締役社長に、スズキで四輪・二輪・船外機の試作・製造と湖西工場運営を経験した今村元寿氏が就任したと発表。2028 年商用化に向け、スズキグループ工場での SD-05 製造を量産機製造・社会実装段階へ移す体制強化として位置付けている。 | 中 | https://skydrive.co.jp/wp-content/uploads/2026/04/%E3%80%90SkyDrive%E3%80%91%E8%A3%BD%E9%80%A0%E5%AD%90%E4%BC%9A%E7%A4%BESky-Works%E3%81%AE%E6%96%B0%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E3%81%AB%E3%82%B9%E3%82%BA%E3%82%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%A7%E5%9F%B9%E3%81%A3%E3%81%9F%E8%A3%BD%E9%80%A0%E7%9F%A5%E8%A6%8B%E3%82%92%E6%8C%81%E3%81%A4%E4%BB%8A%E6%9D%91%E6%B0%8F%E3%81%8C%E5%B0%B1%E4%BB%BB_20260401.pdf | 組織人事と量産準備の発表であり、認定事業場、型式証明、量産品質システム承認、実納入能力を示すものではない。前代表は TC 取得に向けた認証・安全戦略へ専念するため、製造と認証の役割分担が実際に機能するか確認が必要。 |
+| 2026-04-27 | 2026-04-06, 確認日 2026-04-27 | 日本 | ConOps 第2版は、AAM 導入をフェーズ0から3に分け、2020年代後半の商用運航開始では操縦者搭乗と荷物輸送中心の遠隔操縦、2030年代のフェーズ2では旅客を含む遠隔操縦と AAM コリドー、2040年代以降のフェーズ3では自動・自律運航と AATM サービスを想定する。機体面では初期は充電式バッテリー eVTOL とハイブリッドを中心にしつつ、将来は水素燃料電池、より厳しい気象条件、自動・自律飛行を技術論点に含めた。 | 中 | https://www.mlit.go.jp/koku/content/001994660.pdf | ConOps は運用概念であり、技術基準や認証要件そのものではない。AATM サービス、遠隔操縦旅客輸送、低視程運航、自動・自律運航の実装主体、通信冗長性、サイバー、責任分界は制度・実証での具体化待ち。 |
 
 ## 次回追跡
 
@@ -57,3 +62,5 @@
 - MASC 向け 2028 年 2機納入 LOI が firm order、運航会社、遊覧ルート許可、離着陸場整備へ進むか。
 - 大阪湾岸 80 km 圏で約100機という 2035 年ビジョンの具体的な運航主体、機数調達、OSAKAKO Vertiport 本格運用計画。
 - JR East の駅・駅ビル・宿泊施設連携モデルが、具体 vertiport 候補、運航主体、1機 pre-order から firm order/実証へ進むか。
+- SkyDrive SD-05 の最終サプライヤー構成、EPS battery/BMS、Thales FlytRise、Avidyne avionics、Cyient 整備文書が JCAB 個別 Certification Plans と量産・整備体制へどう反映されるか。
+- MLIT ConOps 第2版の Appendix 7 と本文を精読し、AAM 交通管理、遠隔操縦旅客輸送、低視程運航、自動・自律運航が具体の通達・実証・事業制度へどう落ちるか。

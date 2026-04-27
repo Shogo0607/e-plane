@@ -1,6 +1,6 @@
 # Electric Aircraft Research Summary
 
-最終確認日: 2026-04-26
+最終確認日: 2026-04-27
 
 ## 調査方針
 
@@ -44,6 +44,23 @@
 | 2026-04-26 | 中国 | EHang は VT35 について RMB 6.5 million/機の purchase orders、Hefei hub、約 RMB 500 million 相当の地方支援を開示。 | pilotless eVTOL の商用化は、TC だけでなく地方政府支援、拠点形成、初期受注で推進されている。 | VT35 は EH216-S の認証・運航基盤を都市間機へ拡張する設計だが、TC 前の受注・納入の扱いに注意が必要。 | VT35 の TC、納入機の耐空状態、受注条件、commercial route approval を確認する必要。 |
 | 2026-04-26 | 日本 | SkyDrive ADO の認定能力が Aircraft Design and Inspection、証明番号 No.313 と確認できた。 | ADO は政府検査の一部代替を通じて、JCAB 型式証明の実務速度に影響し得る。 | 設計・設計後検査の品質体制は前進したが、compliance testing と個別 CP 承認は別段階。 | ASIMS/MLIT 一覧照合、個別 CP 承認、TC 試験開始の公表を追跡する必要。 |
 | 2026-04-26 | 中国 | AutoFlight CarryAll は Guizhou の Anshun-Guiyang 間で spring tea transport trial を実施し、約 120 km を 37 分で飛行後、高速鉄道で Shanghai へ接続する生鮮物流モデルを示した。 | 既に TC/PC/AC を得た大型無人貨物 eVTOL が、低空物流の実用途探索を進めている。 | 「eVTOL + high-speed rail」により、山岳部短距離航空支線と長距離鉄道幹線を組み合わせる設計が見える。 | 反復商用運航、運航許可、荷役・充電・気象制限、収益性を確認する必要。 |
+| 2026-04-26 | 北米 | SkyDrive は Aeroauto と Florida 向け SD-05 8機 LOI、SAI Flight との Florida 展開拡張を発表。 | 米国南東部では eIPP 以外にも、販売網・運航支援・vertiport/charging/maintenance/pilot training を束ねる市場形成が進む。 | SD-05 の 2028 年 entry into service 目標は、FAA/JCAB 認証と米国地上インフラ整備の両方に依存する。 | LOI の firm order 化、Florida の運航者・離着陸場・充電/整備体制、FAA 認証パスを確認する必要。 |
+| 2026-04-26 | 欧州 | Loganair、Royal Mail、BETA は Scotland で ALIA CTOL の 10日間・23 flights の electric flight demonstration program を完了。 | 欧州の地域航空脱炭素では、eVTOL air taxi よりも eCTOL 貨物・郵便用途が既存空港網で先に運用データを蓄積している。 | 平均 56-mile missions、99 knots、1.37 kWh/nm の実証値は、短距離郵便・貨物路線の電動化評価に使える。 | 型式証明、定期運航承認、冬季・満載・高稼働時の信頼性、充電設備と経済性を追跡する必要。 |
+| 2026-04-26 | 日本 | SkyDrive は AeroGulf Services と Dubai 向け SD-05 20機の基本条件に合意し、2028/2029 年納入枠組みを示した。 | 国内認証と並行して、海外ヘリ運航会社・観光市場を初期顧客にする商用化経路が具体化している。 | Suzuki 生産、JCAB/FAA 認証、UAE 運航承認、観光 route design の接続が商用化条件になる。 | 基本合意の契約性、UAE 当局承認、AeroGulf の運航・整備体制、2028 年納入実現性を確認する必要。 |
+| 2026-04-27 | 北米 | FAA Q1 2026 Small Airplane Issues List で、eVTOL、electric/hybrid propulsion、distributed propulsion、remote/autonomous systems、AI/ML software などが標準化・MOC 調整項目として確認できた。 | eIPP や powered-lift 規則とは別に、Part 23/eCTOL や非伝統的電動機での認証実務上の論点が明文化されている。 | energy/thrust management、battery state 表示、propulsion as flight control effector、Lightning/HIRF、cybersecurity、run-time assurance が設計審査の焦点。 | BETA ALIA CTOL や将来の自律・ハイブリッド派生機にどの項目が適用されるかは個別 certification plan/MOC issue paper 待ち。 |
+| 2026-04-27 | 欧州 | Lilium の中核特許・登録知財が、insolvency proceedings を通じて Archer Aviation へ移転した。 | 欧州 eVTOL 勢の再編は、事業継続・TC 引継ぎではなく、知財の米国勢への移転として進んでいる。 | ducted fan、高電圧系、battery management、flight controls、electric engines などの技術資産は残るが、機体・量産・認証資産とは切り分ける必要。 | 残余資産、人材、設計データ、サプライヤー契約、Archer の実機への反映範囲を追跡する必要。 |
+| 2026-04-27 | 中国 | EHang はタイ政府・CAAT と会合し、現地パートナーと MOU を締結。中国の Guangzhou/Hefei では EH216-S public ticketing と低空 sightseeing services を 2026 年 3 月に始める見込みと説明。 | 中国での OC 後運航経験が、タイの規制・標準作りと商用運航準備の参照事例として輸出されつつある。 | 旅客 eVTOL 輸出は機体販売だけでなく、vertiport、通信、digital traffic management、O&M、要員訓練を含む包括導入になる。 | 実際の中国公開チケット運航開始、タイの type certification/operator license、vertiport 承認、CAAC 認証の扱いを確認する必要。 |
+| 2026-04-27 | 北米 | FAA Advanced Air Mobility Implementation Plan Version 1.0 を確認。Innovate28 の key site 初期運航に向け、認証・運航・空域・インフラ・地域説明を統合した作業計画が整理されている。 | AAM maturity levels は late-stage certification testing から fully autonomous/high-density network までを段階化し、Part 135、powered-lift pilot qualification、vertiport Part 77/157、環境レビューなどを接続する。 | 初期 vertiport には battery HazMat storage、battery fire suppression、充電容量、weather station など、機体性能以外の技術・地上設備条件が明示される。 | Version 1.0 の計画であり承認済み運航ではない。eIPP key sites、Integrated Master Schedule、地方 zoning、消防・電力要件の実装差分を追跡する必要。 |
+| 2026-04-27 | 北米 | FAA AAM Infrastructure ページで、vertiport の法的定義、EB 105A の対象範囲、Part 157/ADIP 手続が確認できた。 | 初期 AAM は既存 airport/heliport 改修を使いつつ、新設 vertiport/vertistop は空港施設手続と NAS 影響評価の対象になる。 | pilot onboard、VMC、MTOW 12,500 lb 以下の eVTOL を前提にした設計ガイダンスであり、自律・IFR・高重量機は追加論点。 | eIPP 施設が EB 105A、Part 157、地方 zoning、消防・電力要件をどう通過するか確認する必要。 |
+| 2026-04-27 | 欧州 | Vertical の Valo 公式仕様で、150 mph、100 mile、4 passengers + 1 pilot、8組 propellers、Molicel セル、Honeywell flight control が確認できた。 | SC-VTOL enhanced category を目標に、機体認証だけでなく cyber security、battery、整備性を商品設計上の論点として前面化している。 | simplified pitch control、cloud data insights、自社 battery technology は訴求点だが、認証用機体の evidence は未公開。 | CDR、認証用機体、battery cycle/thermal、cybersecurity evidence、整備間隔を追跡する必要。 |
+| 2026-04-27 | 日本 | SkyDrive SD-05 の主要サプライヤーとして Avidyne、Electric Power Systems、Thales、Toray Carbon Magic、Cyient などが確認できた。 | ADO/GCP だけでなく、avionics、battery/BMS、flight control、CFRP、maintenance manuals、certification support が型式証明・整備体制の実装基盤になる。 | 外部サプライヤーと Suzuki 生産の組み合わせで量産・認証体制を作る構図が明確化した。 | 最終認証構成、各部品の certification credit、整備文書承認、保守部品供給を確認する必要。 |
+| 2026-04-27 | 北米 | BETA は 2026-05-12 の Q1 決算発表予定を告知し、ALIA family の累計飛行距離 130,000 nautical miles 超、充電インフラ 100 sites 超を示した。 | eCTOL/eVTOL 導入では、機体認証と並行して充電網・aftermarket・GSE の拡張が事業基盤になっている。 | 既存記録の 125,000 nautical miles 超、50 超 charging sites から更新され、運用実績とインフラの伸びが確認できる。 | Q1 決算で certification-intent CTOL、FAA conformity inspection、certification flight testing、充電拠点の稼働内訳を確認する必要。 |
+| 2026-04-27 | 北米 | FAA の Propulsion Systems 技術分野で electric/hybrid-electric propulsion systems と hydrogen-fueled aircraft が明示された。 | AAM 専用規則とは別に、電動・ハイブリッド推進は航空機認証横断の専門領域として政策・ガイダンス・国際連携の対象になっている。 | system safety、operational oversight、推進系寿命全体の信頼性が、BETA や将来の hybrid-electric/水素電動機で共通論点になる。 | 個別 special condition、battery/HV/fuel-cell/hydrogen storage の MoC、ZeroAvia/BETA 等への適用を追跡する必要。 |
+| 2026-04-27 | 欧州 | EASA ED Decision 2026/003/R により、CS-23 Amendment 6 と AMC & GM to CS-23 Issue 5 が発行された。 | ASTM F44 の更新済み consensus standards を取り込み、normal-category aeroplanes の performance-based certification と技術革新への追随を図る。 | eVTOL 専用ではないが、電動 CTOL・ハイブリッド小型機の欧州認証で参照される compliance means が更新された。 | Heart、Aura Aero、BETA などの欧州申請・実証で、どの ASTM standard が certification basis に入るか確認する必要。 |
+| 2026-04-27 | 中国 | CAAC AC-21-AA-2026-45「动力提升航空器适航标准」により、有人・純電・分散式電推 powered-lift の標準が確認できた。 | MTOW 5,700 kg 以下、最大乗客 9 席以下、非与圧、速度 463 km/h 以下という適用範囲で、CCAR-21 special class の型式合格審定基盤を作る。 | 動力電池・配電、推力制御、防火、雷撃/HIRF、高エネルギーローター、電動エンジン、プロペラ、継続耐空文書が審査項目として明確化した。 | pilotless 載人機、10席仕様、hybrid-electric variant、5,700 kg 超機への適用外・追加 special conditions を追跡する必要。 |
+| 2026-04-27 | 日本 | SkyDrive は製造子会社 Sky Works の新代表にスズキ出身の今村元寿氏を置き、2028 年商用化へ向けた量産体制構築を明示した。 | ADO/GCP に続き、製造現場の最適化と認定事業場・TC 取得へ向けた役割分担が具体化している。 | スズキグループ工場、Sky Works、主要サプライヤー、整備文書支援を束ねて、SD-05 の開発機から量産機製造へ移す構図。 | 認定事業場、量産品質システム、TC 後の実納入能力、製造と認証戦略の分担が機能するか確認する必要。 |
+| 2026-04-27 | 日本 | MLIT 官民協議会ページで ConOps 第2版概要・本文が確認でき、旧 ConOps の論点を更新すべき状態になった。 | 第2版は AAM フェーズ、AAM コリドー、AATM サービス、遠隔操縦旅客輸送、自動・自律運航をより具体化している。 | 初期は battery eVTOL/ハイブリッド、将来は水素燃料電池、低視程・厳しい気象条件、自律運航を含む段階的な技術成熟シナリオを示す。 | ConOps は概念整理であり制度化済み要件ではない。Appendix 7、通達、実証事業、AATM 実装主体への反映を追跡する必要。 |
+| 2026-04-27 | 中国 | AutoFlight の zero-carbon water vertiport は、CarryAll 等の eVTOL を水上モバイル拠点から運用する海空統合インフラとして整理できる。 | CAAC 耐空標準や低空経済政策だけでは足りず、港湾・海事・航空管制・消防・電力・保険を接続する地上/水上インフラ制度が商用化条件になる。 | mobile aerial hub と intelligent command center を水上に置くことで、海上油田、緊急救助、水上観光、mobile vertiport clusters への展開を狙う。 | 恒常設置の許可、荒天・係留・充電・消防、港湾/海事当局との責任分界、反復商用運航の実績を追跡する必要。 |
 
 ## 注目すべき規制変化
 
@@ -71,6 +88,7 @@
 - Vertical Valo の Critical Design Review、認証用機体生産、hybrid-electric demonstrator の飛行開始。
 - Volocopter VoloXPro の ultralight certification と VoloCity EASA TC との関係。
 - Volocopter の Bruchsal sandbox、Diamond 傘下の supply chain realignment が VoloCity/VoloXPro の認証スケジュールに与える影響。
+- Lilium 残余資産の売却先、Archer 取得特許の実装、欧州発 eVTOL 技術の人材・設計データ承継。
 - EHang の 2026 年 commercial operations 実績、AutoFlight CarryAll の反復商用貨物運航。
 - AutoFlight Matrix の CAAC 申請、hybrid-electric variant の認証基準、旅客/貨物顧客。
 - AutoFlight CarryAll の実水域救助待機が、自治体・公安・医療と連携した定常 emergency response サービスへ進むか。
@@ -85,9 +103,24 @@
 - FAA MCO/LAX HITL reports の比較、空港別の route/vertiport 設計、controller workload、TCAS/go-around 論点。
 - JR East の駅・宿泊施設連携モデルと SkyDrive 1機 pre-order の実証・firm order 化。
 - BETA の Charge Cube 稼働拠点数、ALIA 訓練プログラムの顧客適用、充電規格の他社機対応。
+- BETA の 2026-05-12 Q1 決算で、ALIA CTOL の conformity inspection、certification flight testing、累計飛行距離、100 sites 超の充電インフラ内訳が更新されるか。
+- FAA Propulsion Systems 技術分野で示された electric/hybrid-electric propulsion と hydrogen-fueled aircraft の認証政策が、ZeroAvia、BETA、hybrid-electric eVTOL/CTOL の special conditions や MoC にどう落ちるか。
+- EASA ED Decision 2026/003/R の CS-23/ASTM F44 更新が、欧州の電動 CTOL・ハイブリッド小型機の certification basis にどう反映されるか。
+- CAAC AC-21-AA-2026-45 が、沃飞、峰飞、沃兰特、时的など中国有人 powered-lift 申請案件の型式合格審定にどう使われ、標準外の pilotless/10席/hybrid 仕様にどんな special conditions が出るか。
+- SkyDrive/Sky Works の量産体制強化が、認定事業場取得、TC、量産品質保証、2028 年納入計画にどう接続されるか。
+- BETA/Loganair/Royal Mail の Scotland electric flight demonstration 後の MOU 実行、定期郵便・貨物運航への移行可否、UK CAA/EASA 認証との接続。
 - EASA SC E-19 の battery、HV distribution、thermal runaway 関連 MoC と、EHPS.420 endurance MoC の個別メーカー適用。
 - EHang VT35 の RMB 6.5 million purchase orders の契約性、Hefei hub の量産・認証実績、初期納入機の耐空状態。
+- EHang EH216-S の Guangzhou/Hefei public ticketing 実績、タイ CAAT の認証・運航許可・vertiport 基準化。
+- AutoFlight zero-carbon water vertiport の実設置先、港湾・海事・航空管制との承認、充電・消防・係留・荒天時運用条件。
 - SkyDrive ADO 認定の ASIMS/MLIT 公的一覧反映、個別 Certification Plans 承認、compliance testing 開始。
+- SkyDrive の Florida/Aeroauto 8機 LOI と AeroGulf 20機基本合意が firm order、運航者証明、vertiport/charging/maintenance 体制へ進むか。
+- FAA Product Issues List の eVTOL、electric/hybrid propulsion、distributed propulsion、remote/autonomous systems、AI/ML software、Lightning/HIRF 項目が、BETA ALIA CTOL や非伝統的 Part 23 電動機の certification plan/MOC にどう反映されるか。
+- FAA Advanced Air Mobility Implementation Plan Version 1.0 の更新、Innovate28 key site と eIPP selected projects の接続、vertiport Part 77/157・環境レビュー・消防・電力要件の具体化。
+- FAA AAM Infrastructure/EB 105A の更新、自律・IFR・高重量 eVTOL への vertiport 基準拡張、regional AAM contact と地方承認の実運用。
+- Vertical Valo の Molicel/Honeywell/propeller 整備性訴求が、CDR、認証用機体、continued airworthiness 文書にどう反映されるか。
+- SkyDrive SD-05 のサプライヤー構成が JCAB 個別 Certification Plans、整備マニュアル、量産品質保証、海外認証へどう接続されるか。
+- MLIT ConOps 第2版の Appendix 7、AAM コリドー、AATM サービス、遠隔操縦旅客輸送、自動・自律運航が、具体の通達・実証・事業制度へどう反映されるか。
 
 ## ファイル構成
 

@@ -1,6 +1,6 @@
 # North America Electric Aircraft Update
 
-最終確認日: 2026-04-26
+最終確認日: 2026-04-27
 
 ## 作業方針
 
@@ -25,6 +25,7 @@
 | 2026-04-26 | 2026-03-09 | 北米/米国 | Wisk は Texas Department of Transportation が eIPP に選定され、TxDOT 案件の主要民間 eVTOL partner として Gen 6、autonomous systems、SkyGrid Strata を使う three-phase flight program を進めると発表。 | 高 | https://wisk.aero/newsroom/wisk-and-texas-selected-by-white-house-to-lead-the-safe-introduction-of-autonomous-air-taxi-flight | Wisk 発表内に Gen 6 初飛行年の誤記とみられる記述があり、飛行試験実績は 2025-12 の別発表で照合が必要。Automated Flight Rules と remote supervisor 役割の FAA 反映時期は未確定。 |
 | 2026-04-26 | 2026-03-09, 確認日 2026-04-26 | 北米/米国 | FAA/DOT の eIPP 選定発表本文では、8件の selected projects の下で米国民が 2026 年夏までに運航開始を目にし始める見込みと説明。Port Authority of New York and New Jersey 案件では Manhattan heliport での eVTOL passenger operations を含む 12 の operational concepts が挙げられた。 | 高 | https://www.faa.gov/newsroom/future-aviation-here-trumps-transportation-secretary-sean-p-duffy-and-faa-unveil-eight | 夏の実運航開始は見込みであり、各案件の機体、運航者、搭乗者範囲、route approval、OTA/契約条件は未確定。 |
 | 2026-04-26 | 確認日 2026-04-26 | 北米/米国 | FAA AAM ページの latest news で、Los Angeles Airport と Orlando Airport の Human-in-the-loop AAM operations reports が公開済みと確認。eIPP と並行して、空港周辺での eVTOL 初期運航を既存 ATC・空港運用に組み込む検討が進む。 | 中 | https://www.faa.gov/air-taxis | レポートは研究・評価資料であり、個別空港の商用 eVTOL 運航承認や標準手順化を意味しない。 |
+| 2026-04-26 | 2026-03-10 | 北米/米国 | SkyDrive は Florida 拠点の Aeroauto と SD-05 8機の LOI を締結し、SAI Flight との提携を South Carolina から Florida へ拡張。2028 年に 4機、2029 年に 4機を順次納入する想定で、米国南東部の販売・運航・インフラ基盤を作ると発表。 | 中 | https://skydrive.co.jp/en/wp-content/uploads/sites/2/2026/03/%E3%80%90SkyDrive%E3%80%91Leading-Japanese-eVTOL-manufacturer-SkyDrive-Expands-Strategic-Network-in-Southeastern-USAfocused-on-Florida_20260310-1.pdf | LOI であり firm order ではない。FAA/JCAB 型式証明、米国運航者、Florida の vertiport/charging/maintenance/pilot training、2028 年 entry into service の実現性は未確定。 |
 
 ## 規制動向
 
@@ -36,6 +37,10 @@
 | 2026-04-26 | 2026-03 | 北米/米国 | eIPP は air taxi、長距離固定翼、貨物、医療・緊急輸送、automation safety を実証領域に含め、得られたデータを将来政策と標準に反映する設計。 | 高 | https://www.faa.gov/newsroom/eIPP-Announcement-Fact-Sheet.pdf | FAA が eIPP 成果をどの規則・ガイダンスに反映するかは未確定。 |
 | 2026-04-26 | 確認日 2026-04-26 | 北米/米国 | FAA AAM ページは、powered-lift の certification、operation、pilot qualification に必要な規則が整備済みである一方、noise は個別機体ごとに既存要件または追加要件を評価すると説明。 | 高 | https://www.faa.gov/air-taxis | 個別 eVTOL の騒音基準適用、vertiport 環境審査、地方自治体承認との接続が不確実。 |
 | 2026-04-26 | 2026-03-09 | 北米/米国 | Wisk/Texas eIPP は、crawl-walk-run 型の初期運航、専用ルート統合、高頻度 Gen 6 運航を通じ、Airworthiness、Ground Risk、Pilot Certification、Automated Flight Rules、remote supervisors の規制ギャップに FAA へデータを戻す設計。 | 高 | https://wisk.aero/newsroom/wisk-and-texas-selected-by-white-house-to-lead-the-safe-introduction-of-autonomous-air-taxi-flight | Wisk の autonomy-first モデルが既存 powered-lift pilot qualification final rule とどう整合するか、AFR の制度化単位と時期は不明。 |
+| 2026-04-27 | 2026-03-30, 確認日 2026-04-27 | 北米/米国 | FAA Q1 2026 Small Airplane Issues List は、eVTOL の vertical/transition/forward flight mode、electric/hybrid-electric propulsion、distributed propulsion、propulsion as flight control effector、remote/autonomous systems、AI/ML software、Lightning/HIRF for nontraditional Part 23 airplanes を標準化・MOC 要調整項目として整理。 | 高 | https://www.faa.gov/aircraft/air_cert/design_approvals/product_issues_lists/small_airplane_issues_list_2026q1 | Small Airplane issues list であり、powered-lift special class 全案件に直結するとは限らない。BETA など Part 23/eCTOL 系、電動推進・自律・分散推進を含む申請での個別適用範囲を追跡要。 |
+| 2026-04-27 | 確認日 2026-04-27 | 北米/米国 | FAA Advanced Air Mobility Implementation Plan Version 1.0 は、Innovate28 の初期 AAM 運航を key sites で反復可能にする計画として、aircraft certification、operations certification、airspace/ATM、infrastructure、environment/community engagement の作業流を統合。AAM maturity levels では Level 0 を late-stage certification testing、Level 5 を fully autonomous aircraft と federated service network による高密度運航と定義している。 | 高 | https://www.faa.gov/sites/faa.gov/files/AAM-I28-Implementation-Plan.pdf | 文書自体は Version 1.0 の計画であり、eIPP 個別案件の承認、TC、運航証明、vertiport 許可を意味しない。今後の更新版、Integrated Master Schedule の実進捗、eIPP との役割分担を追跡要。 |
+| 2026-04-27 | 確認日 2026-04-27 | 北米/米国 | FAA の AAM Infrastructure ページは、vertiport を FAA Reauthorization Act of 2024 に基づく powered-lift 対応施設として定義し、EB 105A の対象を pilot onboard、VMC、MTOW 12,500 lb 以下の eVTOL に限定。新設・変更時は 14 CFR Part 157 と ADIP/Airport Master Record 更新が関係すると整理。 | 高 | https://www.faa.gov/airports/new_entrants/aam_infrastructure | EB 105A は初期設計ガイダンスであり、無人・自律 eVTOL、IFR、高重量機、既存ヘリポート改修、地方 zoning/消防/電力要件への適用は施設ごとの確認が必要。 |
+| 2026-04-27 | 2026-04-09, 確認日 2026-04-27 | 北米/米国 | FAA Senior Technical Experts Program の Propulsion Systems ページは、対象技術に electric and hybrid-electric propulsion systems と hydrogen-fueled aircraft を明示し、認証政策・ガイダンス・国際連携を担う専門領域として整理。電動推進は AAM 専用制度だけでなく、航空機認証横断の技術分野として扱われている。 | 中 | https://www.faa.gov/aircraft/air_cert/step/disciplines/propulsion_systems | STEP ページは体制説明であり、個別機体の MoC や special condition ではない。ZeroAvia、BETA、hybrid-electric 派生機など個別プロジェクトでどの特別条件・ガイダンスが使われるかは別途確認が必要。 |
 
 ## 技術動向
 
@@ -55,6 +60,12 @@
 | 2026-04-26 | 2026-02-20 | 北米/米国 | FAA/GOAA の Orlando International Airport HITL report は、MCO Class B 内の複数 vertiport と routes を想定し、最大 26 eVTOL ops/hr のシナリオを評価。既存到着・出発流との分離、TCAS alerts、go-around、wake turbulence を初期導入の設計論点として確認した。 | 中 | https://www.faa.gov/air-taxis/MCO_HITL_90_day_Report_Feb2026.pdf | Orlando 固有のシミュレーション結果であり、他空港や実運航時の交通量・気象・機体性能へ一般化するには追加評価が必要。 |
 | 2026-04-26 | 2026-02, 確認日 2026-04-26 | 北米/米国 | FAA の LAX HITL report も公開され、主要空港周辺の eVTOL 初期運航は機体性能だけでなく、vertiport placement、route design、controller workload、legacy traffic との手順調整が商用化条件になることを補強した。 | 中 | https://www.faa.gov/air-taxis/LAX_HITL_90_Day_Report_Feb2026.pdf | LAX レポートの詳細シナリオを次回精読し、MCO との差分、空港別制約、標準化可能な手順を切り分ける必要。 |
 | 2026-04-26 | 確認日 2026-04-26 | 北米/米国 | BETA は充電ネットワークの到達性として、BETA Charge Cube から 50 miles 以内に 5,000 万人超、100 miles 以内に米国人口の 30% 超が居住すると説明。ALIA company pilots は 30 名超を qualified 済みで、US Air Force、US Army、UPS、United Therapeutics、Bristow、Air New Zealand などの pilots/maintainers 訓練実績も示した。 | 中 | https://beta.team/ | メーカーサイトの現在値であり、稼働中 charger 数、一般利用可能性、充電規格、運航証明や型式証明との接続は別途確認が必要。 |
+| 2026-04-26 | 2026-03-10 | 北米/米国 | Aeroauto は eVTOL showroom/sales platform に加え、vertiport infrastructure、charging systems、maintenance capabilities、pilot training pathways、operational partnerships を支援するとされ、SkyDrive の Florida 展開は機体納入だけでなく地上運用・販売網整備を含む。 | 中 | https://skydrive.co.jp/en/wp-content/uploads/sites/2/2026/03/%E3%80%90SkyDrive%E3%80%91Leading-Japanese-eVTOL-manufacturer-SkyDrive-Expands-Strategic-Network-in-Southeastern-USAfocused-on-Florida_20260310-1.pdf | Aeroauto/SAI 側の具体設備、充電規格、整備資格、操縦士訓練課程、地方空港・自治体との承認状況は未公開。 |
+| 2026-04-27 | 2026-03-30, 確認日 2026-04-27 | 北米/米国 | FAA の Product Issues List は、電動・分散推進機で battery states、individual thrust vectors、malfunction annunciations を含む energy/thrust management display、FBW、active stick、propulsion as flight control effector、cybersecurity、run-time assurance を新規性の高い技術論点として列挙。 | 高 | https://www.faa.gov/aircraft/air_cert/design_approvals/product_issues_lists/small_airplane_issues_list_2026q1 | リストは標準化項目であり、個別機体の不適合を示すものではない。ALIA CTOL、将来の自律機、hybrid-electric 派生機がどの MOC issue paper や special condition を求められるかは案件別。 |
+| 2026-04-27 | 確認日 2026-04-27 | 北米/米国 | FAA AAM Implementation Plan は、初期 vertiport に battery hazardous materials storage、battery fire suppression、十分な充電電流、weather station を求める想定を示し、airport/heliport 併設時は Airport Layout Plan、14 CFR Part 77/157、環境レビュー、地域説明が実装条件になると整理。 | 高 | https://www.faa.gov/sites/faa.gov/files/AAM-I28-Implementation-Plan.pdf | 実際の vertiport 設計基準や消防・電力・HazMat 要件は施設ごとの承認に依存する。FAA Engineering Brief、地方 zoning、eIPP key site の実装差分を確認する必要。 |
+| 2026-04-27 | 確認日 2026-04-27 | 北米/米国 | FAA の AAM Infrastructure ページは、初期 AAM が既存 airport/heliport を改修して使い、その後 vertiport/vertistop を追加する前提を示す。施設審査では安全性、周辺環境、既存 NAS への影響、完成後 15 日以内の Airport Master Record 更新が技術・運用実装論点になる。 | 高 | https://www.faa.gov/airports/new_entrants/aam_infrastructure | eIPP key sites の実施設計、充電容量、消火、バッテリー保管、heliport から vertiport への改修範囲、自治体承認との整合は未確定。 |
+| 2026-04-27 | 2026-04-21 | 北米/米国 | BETA Technologies は 2026 年第1四半期決算を 2026-05-12 に発表予定とし、ALIA CTOL/VTOL family の累計飛行距離が 130,000 nautical miles 超、充電インフラが米国内外 100 sites 超に拡大したと説明。既存の 125,000 nautical miles 超、50 超 charging sites から運用・インフラ実績が更新された。 | 中 | https://investors.beta.team/news-events/press-releases/detail/102/beta-technologies-to-announce-first-quarter-2026-results-on-may-12-2026 | 決算予告資料内の会社概要であり、型式証明進捗や稼働中/建設中 charger の内訳は未公開。2026-05-12 の Q1 決算で certification-intent CTOL、conformity inspection、certification flight testing の更新確認が必要。 |
+| 2026-04-27 | 2026-04-09, 確認日 2026-04-27 | 北米/米国 | FAA の Propulsion Systems 技術分野は、従来エンジンに加えて electric/hybrid-electric propulsion と hydrogen-fueled aircraft を同じ安全・性能・認証標準の枠内で扱う。電動航空機の技術成熟度評価は、電池・モーター単体だけでなく、推進系寿命全体の system safety、operational oversight、international standards との整合が審査論点になる。 | 中 | https://www.faa.gov/aircraft/air_cert/step/disciplines/propulsion_systems | ページ上の情報は抽象度が高く、battery thermal runaway、HV distribution、fuel-cell/hydrogen storage、hybrid power management の具体 MoC は個別資料追跡が必要。 |
 
 ## 次回追跡
 
@@ -62,8 +73,11 @@
 - Joby の TIA 飛行開始と FAA pilots による for-credit testing。
 - Archer の certification plans acceptance と TIA 開始。
 - BETA ALIA CTOL の FAA 型式証明状況、Hawaii デモ飛行の実施結果。
+- BETA の 2026-05-12 Q1 決算で、130,000 nautical miles 超の累計飛行距離、100 sites 超の充電インフラ、certification-intent CTOL の conformity inspection/certification flight testing がどう更新されるか。
 - Wisk Gen 6 の envelope expansion、自律運航の FAA 認証方針、vertiport 要件の標準化。
 - Joby/ASI の 2026 年後半 live operational exercises と、FAA BNATCS/eIPP への反映範囲。
 - Wisk/Texas eIPP 提案の正式採択内容、SkyGrid Strata を含む自律運航データの FAA 政策反映。
 - eIPP selected projects の 2026 年夏以降の実運航開始、PANYNJ/Manhattan heliport 案件の機体・運航者・旅客条件。
 - FAA MCO/LAX HITL reports の詳細比較、controller workload、route/vertiport 設計、空港別に標準化可能な運航手順。
+- FAA AAM Implementation Plan Version 1.0 の更新版、Innovate28 Integrated Master Schedule の進捗、eIPP key sites との重なり、vertiport の Part 77/157・消防・電力要件の実装。
+- FAA EB 105A の次回更新、AAM Infrastructure ページの regional AAM contact 運用、eIPP 施設が Part 157/ADIP/地方 zoning をどう通過するか。
