@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/japan/notes.md",
+                "file": "research/summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "notes"
+              "title": "summary"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research/japan/notes.md",
+                "file": "research/summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "notesへのバックリンク"
+              "title": "summaryへのバックリンク"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "research/japan/notes.md",
+                "file": "research/summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "notesからのアウトゴーイングリンク"
+              "title": "summaryからのアウトゴーイングリンク"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research/japan/notes.md",
+                "file": "research/summary.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "notesのアウトライン"
+              "title": "summaryのアウトライン"
             }
           }
         ]
@@ -185,11 +185,12 @@
   },
   "active": "1992d14ec7e53b4e",
   "lastOpenFiles": [
-    "research/japan/image2.png",
-    "research/japan/image.png",
-    "research/japan/electric_aircraft_presentation.pptx",
     "research/europe/notes.md",
     "research/china/notes.md",
-    "research/benchmark/companies.md"
+    "research/benchmark/companies.md",
+    "research/japan/image2.png",
+    "research/japan/notes.md",
+    "research/japan/image.png",
+    "research/japan/electric_aircraft_presentation.pptx"
   ]
 }

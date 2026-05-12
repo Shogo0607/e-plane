@@ -1,6 +1,6 @@
 # Europe Electric Aircraft Update
 
-最終確認日: 2026-04-27
+最終確認日: 2026-04-30
 
 ## 作業方針
 
@@ -51,6 +51,9 @@
 | 2026-04-26 | 確認日 2026-04-26 | 欧州/EU | EASA の SC E-19 EHPS.420 Endurance Substantiation MoC は、electric/hybrid propulsion system の endurance substantiation で CS-E、CS-APU、EUROCAE ED-321 など既存標準・AMC の活用方針を示す。turbine/piston を含む hybrid-electric architecture も対象に入る。 | 高 | https://www.easa.europa.eu/en/downloads/140799/en | propulsion battery、electrical power distribution、energy storage device は scope 外とされており、battery/HV 系の安全・耐久 MoC は別資料で追跡が必要。 |
 | 2026-04-26 | 2026-04-01 | 欧州/英国 | BETA ALIA CTOL の Scotland 実証では、Royal Mail の representative postal routes を想定し、平均 56-mile missions、99 knots、1.37 kWh per nautical mile の運航データを取得。短距離地域貨物では eCTOL が eVTOL より先に実運用データを蓄積している。 | 中 | https://www.loganair.co.uk/news/loganair-royal-mail-and-beta-technologies-complete-uks-first-electric-flight-demonstrations-across-scotland/ | 代表荷物での実証値であり、冬季・強風・高稼働率・満載時の性能、充電インフラ増設、郵便ネットワークへの本格組込みは未確認。 |
 | 2026-04-27 | 確認日 2026-04-27 | 欧州/英国 | Vertical の Valo 公式仕様ページは、UK CAA/EASA SC-VTOL enhanced category を目標に、150 mph 巡航、100 mile 航続、4 passengers + 1 pilot、8組の tilt-shift propellers、Molicel 円筒セルを使う自社 battery technology、Honeywell flight control system、aerospace cyber security regulations への適合を訴求。 | 中 | https://vertical-aerospace.com/meet-valo/ | 公式仕様は設計目標・商品説明を含む。認証用機体の実測 range/speed/noise、battery cycle life、fast charging 条件、cybersecurity compliance evidence、整備間隔は未確認。 |
+| 2026-04-27 | 2026-03-20, 確認日 2026-04-27 | 欧州/フランス | Safran Electrical & Power の ENGINeUS 100 は、2025 年に EASA 認証を取得した hybrid/all-electric aircraft 向け電動モーターとして、2026 Aviation Week Laureates の Commercial Aviation 部門を受賞。Safran は EASA との 4 年協業、4 motor versions、700 時間の flight testing、3,000 時間の laboratory testing、FAA certification underway、180 kW maximum takeoff power、integrated electronics、air cooling、silicon carbide technology を公表した。 | 中 | https://www.safran-group.com/pressroom/safran-s-engineus-electric-motor-awarded-2026-aviation-week-laureates-2026-03-20 | 受賞・仕様発表であり、個別機体の TC や量産納入を意味しない。ENGINeUS 採用各社での aircraft-level certification、FAA 側の認証完了、量産ラインの実稼働と信頼性データを追跡要。 |
+| 2026-04-28 | 2026-03-18, 2026-04-28 確認日 | 欧州/英国 | Vertical Aerospace は Vertical Energy Centre で Valo 認証機を支える battery pilot production line を稼働。VEC は 15,000 sq ft 規模で認証機 7 機向けの最終バッテリーを生産し、VEC2（30,000 sq ft）開設で電池生産能力を 3 倍化する見通しを示した。 | 高 | https://vertical-aerospace.com/wp-content/uploads/2026/03/20260318-Battery-Production-Line-Press-Release_v2-1.pdf | VEC/ VEC2 は pilot 段階であり、認証運用での品質再現性、認証機用と商用初期量産への移行条件、供給網体制、リードタイムは未確認。 |
+| 2026-04-29 | 2026-04-28, 確認日 2026-04-29 | 欧州/EU | EASA が NPA 2026-01（Regular update of the aerodrome rules for transposition of ICAO SARPs amendments）を公示。滑走路・ヘリポート関連の設計・運用基準更新を含み、AAM/vertiport の施設基準整合の次段階としてインフラ要件見直しに影響。 | 中 | https://www.easa.europa.eu/en/document-library/notices-of-proposed-amendment/npa-2026-01 | NPA は制度案段階であり、EASA 公表後の最終採択時期・vertiport/eVTOL 専用カテゴリへの具体反映は今後の追跡が必要。 |
 
 ## 次回追跡
 
@@ -63,3 +66,4 @@
 - Volocopter VoloXPro が VoloCity 後継の主軸になるのか、EASA TC 路線を維持するのか。
 - Volocopter の Bruchsal sandbox、VoloCity 2027 EASA certification 見込み、Diamond 傘下の供給網再編効果。
 - Vertical Valo の Molicel セル採用、Honeywell flight control、cybersecurity compliance、簡素化 propeller maintenance claims が認証用機体と整備計画にどう反映されるか。
+- Safran ENGINeUS 100 の FAA 認証完了、Niort/Pitstone 量産ライン、採用機体側の certification basis と実運用データ。
